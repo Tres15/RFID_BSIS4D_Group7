@@ -1,0 +1,23 @@
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\bin\Debug\rfid student attendance.exe.config
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\bin\Debug\rfid student attendance.exe
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\bin\Debug\rfid student attendance.pdb
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.csproj.AssemblyReference.cache
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\obj\Debug\rfid_student_attendance.Form1.resources
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\obj\Debug\rfid_student_attendance.Properties.Resources.resources
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.csproj.GenerateResource.cache
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.csproj.CoreCompileInputs.cache
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.exe
+D:\CODES COMPONENTS\New folder\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.pdb
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\bin\Debug\rfid student attendance.exe.config
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\bin\Debug\rfid student attendance.exe
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\bin\Debug\rfid student attendance.pdb
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\bin\Debug\ReaLTaiizor.dll
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.csproj.AssemblyReference.cache
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\obj\Debug\rfid_student_attendance.Form1.resources
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\obj\Debug\rfid_student_attendance.Form2.resources
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\obj\Debug\rfid_student_attendance.Properties.Resources.resources
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.csproj.GenerateResource.cache
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.csproj.CoreCompileInputs.cache
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\obj\Debug\rfid stu.E1C64CA4.Up2Date
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.exe
+C:\Users\Errold Dela Cruz\Desktop\Capstone\rfid student attendance\rfid student attendance\obj\Debug\rfid student attendance.pdb
